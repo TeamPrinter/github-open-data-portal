@@ -1,0 +1,77 @@
+name,value,year,lastValue,Rank
+Chardonnay,835,2018,771,2
+Chardonnay,771,2017,517.96,2
+Chardonnay,517.96,2016,353.37,1
+Chardonnay,353.37,2015,347.06,1
+Chardonnay,347.06,2014,327,1
+Chardonnay,327,2013,303.51,1
+Chardonnay,303.51,2012,284.83,1
+Chardonnay,284.83,2011,249.3,1
+Chardonnay,249.3,2010,201.69,1
+Chardonnay,201.69,2009,165.3,2
+Chardonnay,165.3,2008,119.63,2
+Chardonnay,119.63,2007,95.91,2
+Chardonnay,95.91,2006,49.36,3
+Chardonnay,49.36,2005,35.6,6
+Chardonnay,35.6,2004,35.2,8
+Chardonnay,35.2,2003,34.95,8
+Chardonnay,34.95,2002,34.7,8
+Chardonnay,34.7,2001,34.45,9
+Chardonnay,34.45,2000,34.45,9
+Pinot Noir,859,2018,803,1
+Pinot Noir,803,2017,483.11,1
+Pinot Noir,483.11,2016,323.14,2
+Pinot Noir,323.14,2015,323.14,2
+Pinot Noir,323.14,2014,305.22,2
+Pinot Noir,305.22,2013,278.09,2
+Pinot Noir,278.09,2012,257.65,2
+Pinot Noir,257.65,2011,247.77,2
+Pinot Noir,247.77,2010,217.97,2
+Pinot Noir,217.97,2009,182.7,1
+Pinot Noir,182.7,2008,121.44,1
+Pinot Noir,121.44,2007,98.57,1
+Pinot Noir,98.57,2006,62.16,1
+Pinot Noir,62.16,2005,49.1,5
+Pinot Noir,49.1,2004,47.6,6
+Pinot Noir,47.6,2003,46.75,6
+Pinot Noir,46.75,2002,45.9,7
+Pinot Noir,45.9,2001,45.05,7
+Pinot Noir,45.05,2000,45.05,7
+Bacchus,200,2018,144,4
+Bacchus,144,2017,165.2,4
+Bacchus,165.2,2016,128.52,3
+Bacchus,128.52,2015,126.31,3
+Bacchus,126.31,2014,130.79,3
+Bacchus,130.79,2013,129.83,3
+Bacchus,129.83,2012,133.11,3
+Bacchus,133.11,2011,128.35,3
+Bacchus,128.35,2010,118.75,3
+Bacchus,118.75,2009,103.68,3
+Bacchus,103.68,2008,104.4,3
+Bacchus,104.4,2007,89.38,3
+Bacchus,89.38,2006,76.57,3
+Bacchus,76.57,2005,74.4,5
+Bacchus,74.4,2004,78,4
+Bacchus,78,2003,80.15,4
+Bacchus,80.15,2002,82.3,4
+Bacchus,82.3,2001,84.45,4
+Bacchus,84.45,2000,84.45,4
+Seyval Blanc,121,2018,101,5
+Seyval Blanc,101,2017,94.35,5
+Seyval Blanc,94.35,2016,88.31,5
+Seyval Blanc,88.31,2015,88.46,4
+Seyval Blanc,88.46,2014,92.05,4
+Seyval Blanc,92.05,2013,96.13,4
+Seyval Blanc,96.13,2012,94.61,4
+Seyval Blanc,94.61,2011,92.99,4
+Seyval Blanc,92.99,2010,88.86,4
+Seyval Blanc,88.86,2009,89.6,4
+Seyval Blanc,89.6,2008,91.17,4
+Seyval Blanc,91.17,2007,91.15,5
+Seyval Blanc,91.15,2006,88.51,4
+Seyval Blanc,88.51,2005,93.7,2
+Seyval Blanc,93.7,2004,96.43,1
+Seyval Blanc,96.43,2003,97.86,1
+Seyval Blanc,97.86,2002,99.28,1
+Seyval Blanc,99.28,2001,100.71,2
+Seyval Blanc,100.71,2000,100.71,3
