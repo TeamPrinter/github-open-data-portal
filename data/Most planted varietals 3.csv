@@ -1,0 +1,267 @@
+name,value,year,lastValue,rank
+Chardonnay,34.45,2000,34.45,9
+Chardonnay,34.7,2001,34.45,9
+Chardonnay,34.95,2002,34.7,8
+Chardonnay,35.2,2003,34.95,8
+Chardonnay,35.6,2004,35.2,8
+Chardonnay,49.36,2005,35.6,6
+Chardonnay,95.91,2006,49.36,3
+Chardonnay,119.63,2007,95.91,2
+Chardonnay,165.3,2008,119.63,2
+Chardonnay,201.69,2009,165.3,2
+Chardonnay,249.3,2010,201.69,1
+Chardonnay,284.83,2011,249.3,1
+Chardonnay,303.51,2012,284.83,1
+Chardonnay,327,2013,303.51,1
+Chardonnay,347.06,2014,327,1
+Chardonnay,353.37,2015,347.06,1
+Chardonnay,517.96,2016,353.37,1
+Chardonnay,771,2017,517.96,2
+Chardonnay,835,2018,771,2
+Pinot Noir,45.05,2000,45.05,7
+Pinot Noir,45.9,2001,45.05,7
+Pinot Noir,46.75,2002,45.9,7
+Pinot Noir,47.6,2003,46.75,6
+Pinot Noir,49.1,2004,47.6,6
+Pinot Noir,62.16,2005,49.1,5
+Pinot Noir,98.57,2006,62.16,1
+Pinot Noir,121.44,2007,98.57,1
+Pinot Noir,182.7,2008,121.44,1
+Pinot Noir,217.97,2009,182.7,1
+Pinot Noir,247.77,2010,217.97,2
+Pinot Noir,257.65,2011,247.77,2
+Pinot Noir,278.09,2012,257.65,2
+Pinot Noir,305.22,2013,278.09,2
+Pinot Noir,323.14,2014,305.22,2
+Pinot Noir,323.14,2015,323.14,2
+Pinot Noir,483.11,2016,323.14,2
+Pinot Noir,803,2017,483.11,1
+Pinot Noir,859,2018,803,1
+Bacchus,84.45,2000,84.45,4
+Bacchus,82.3,2001,84.45,4
+Bacchus,80.15,2002,82.3,4
+Bacchus,78,2003,80.15,4
+Bacchus,74.4,2004,78,4
+Bacchus,76.57,2005,74.4,5
+Bacchus,89.38,2006,76.57,3
+Bacchus,104.4,2007,89.38,3
+Bacchus,103.68,2008,104.4,3
+Bacchus,118.75,2009,103.68,3
+Bacchus,128.35,2010,118.75,3
+Bacchus,133.11,2011,128.35,3
+Bacchus,129.83,2012,133.11,3
+Bacchus,130.79,2013,129.83,3
+Bacchus,126.31,2014,130.79,3
+Bacchus,128.52,2015,126.31,3
+Bacchus,165.2,2016,128.52,3
+Bacchus,144,2017,165.2,4
+Bacchus,200,2018,144,4
+Seyval Blanc,100.71,2000,100.71,3
+Seyval Blanc,99.28,2001,100.71,2
+Seyval Blanc,97.86,2002,99.28,1
+Seyval Blanc,96.43,2003,97.86,1
+Seyval Blanc,93.7,2004,96.43,1
+Seyval Blanc,88.51,2005,93.7,2
+Seyval Blanc,91.15,2006,88.51,4
+Seyval Blanc,91.17,2007,91.15,5
+Seyval Blanc,89.6,2008,91.17,4
+Seyval Blanc,88.86,2009,89.6,4
+Seyval Blanc,92.99,2010,88.86,4
+Seyval Blanc,94.61,2011,92.99,4
+Seyval Blanc,96.13,2012,94.61,4
+Seyval Blanc,92.05,2013,96.13,4
+Seyval Blanc,88.46,2014,92.05,4
+Seyval Blanc,88.31,2015,88.46,4
+Seyval Blanc,94.35,2016,88.31,5
+Seyval Blanc,101,2017,94.35,5
+Seyval Blanc,121,2018,101,5
+Reichensteiner,102,2000,102,2
+Reichensteiner,97,2001,102,3
+Reichensteiner,92,2002,97,2
+Reichensteiner,87,2003,92,2
+Reichensteiner,88.5,2004,87,2
+Reichensteiner,92.55,2005,88.5,1
+Reichensteiner,96.27,2006,92.55,2
+Reichensteiner,93.56,2007,96.27,4
+Reichensteiner,85.35,2008,93.56,5
+Reichensteiner,84.43,2009,85.35,5
+Reichensteiner,85.38,2010,84.43,5
+Reichensteiner,83.73,2011,85.38,5
+Reichensteiner,81.37,2012,83.73,5
+Reichensteiner,80.49,2013,81.37,5
+Reichensteiner,73.41,2014,80.49,6
+Reichensteiner,72.35,2015,73.41,6
+Reichensteiner,71.1,2016,72.35,6
+Reichensteiner,68.6,2017,71.1,6
+Reichensteiner,66,2018,68.6,7
+Pinot Munier,8.3,2000,8.3,12
+Pinot Munier,8.35,2001,8.3,12
+Pinot Munier,8.4,2002,8.35,12
+Pinot Munier,8.49,2003,8.4,13
+Pinot Munier,9,2004,8.49,13
+Pinot Munier,13.89,2005,9,12
+Pinot Munier,23.84,2006,13.89,12
+Pinot Munier,27.43,2007,23.84,10
+Pinot Munier,39.8,2008,27.43,10
+Pinot Munier,48.7,2009,39.8,7
+Pinot Munier,52.58,2010,48.7,7
+Pinot Munier,56.24,2011,52.58,7
+Pinot Munier,57.81,2012,56.24,6
+Pinot Munier,68.55,2013,57.81,6
+Pinot Munier,76.06,2014,68.55,5
+Pinot Munier,76.65,2015,76.06,5
+Pinot Munier,123.69,2016,76.65,4
+Pinot Munier,243,2017,123.69,3
+Pinot Munier,317,2018,243,3
+Muller Thurgau,108.025,2000,108.025,1
+Muller Thurgau,99.65,2001,108.025,1
+Muller Thurgau,91.275,2002,99.65,3
+Muller Thurgau,82.9,2003,91.275,3
+Muller Thurgau,81.1,2004,82.9,3
+Muller Thurgau,79.1,2005,81.1,3
+Muller Thurgau,75.9,2006,79.1,6
+Muller Thurgau,71.2,2007,75.9,6
+Muller Thurgau,62,2008,71.2,6
+Muller Thurgau,61.5,2009,62,6
+Muller Thurgau,61.4,2010,61.5,6
+Muller Thurgau,58.2,2011,61.4,6
+Muller Thurgau,57.7,2012,58.2,7
+Muller Thurgau,56,2013,57.7,7
+Muller Thurgau,49.2,2014,56,7
+Muller Thurgau,45.9,2015,49.2,8
+Muller Thurgau,43.8,2016,45.9,8
+Muller Thurgau,33.4,2017,43.8,11
+Muller Thurgau,23,2018,33.4,12
+Ortega,27.55,2000,27.55,10
+Ortega,26.9,2001,27.55,10
+Ortega,26.25,2002,26.9,10
+Ortega,25.6,2003,26.25,10
+Ortega,23.4,2004,25.6,10
+Ortega,26.4,2005,23.4,11
+Ortega,26.4,2006,26.4,11
+Ortega,27.2,2007,26.4,11
+Ortega,27.1,2008,27.2,11
+Ortega,27.8,2009,27.1,11
+Ortega,29.7,2010,27.8,11
+Ortega,32.2,2011,29.7,11
+Ortega,33.2,2012,32.2,11
+Ortega,34.5,2013,33.2,10
+Ortega,35.3,2014,34.5,10
+Ortega,35.5,2015,35.3,10
+Ortega,38.1,2016,35.5,10
+Ortega,37.55,2017,38.1,9
+Ortega,37,2018,37.55,11
+Madelain Angevine,55.275,2000,55.275,6
+Madelain Angevine,51.45,2001,55.275,6
+Madelain Angevine,47.625,2002,51.45,6
+Madelain Angevine,43.8,2003,47.625,7
+Madelain Angevine,48.4,2004,43.8,7
+Madelain Angevine,47.5,2005,48.4,8
+Madelain Angevine,51.9,2006,47.5,7
+Madelain Angevine,48.6,2007,51.9,7
+Madelain Angevine,46.8,2008,48.6,7
+Madelain Angevine,46.8,2009,46.8,8
+Madelain Angevine,47,2010,46.8,8
+Madelain Angevine,47.6,2011,47,8
+Madelain Angevine,47.3,2012,47.6,8
+Madelain Angevine,45.9,2013,47.3,9
+Madelain Angevine,39.5,2014,45.9,9
+Madelain Angevine,39.3,2015,39.5,9
+Madelain Angevine,38.8,2016,39.3,9
+Madelain Angevine,49.9,2017,38.8,8
+Madelain Angevine,61,2018,49.9,8
+Huxelrebe,38.8,2000,38.8,8
+Huxelrebe,36.65,2001,38.8,8
+Huxelrebe,34.5,2002,36.65,9
+Huxelrebe,32.3,2003,34.5,9
+Huxelrebe,28.5,2004,32.3,9
+Huxelrebe,27.4,2005,28.5,9
+Huxelrebe,27.2,2006,27.4,10
+Huxelrebe,25,2007,27.2,12
+Huxelrebe,17.9,2008,25,13
+Huxelrebe,17.9,2009,17.9,15
+Huxelrebe,17.4,2010,17.9,15
+Huxelrebe,17.3,2011,17.4,16
+Huxelrebe,17.3,2012,17.3,16
+Huxelrebe,17.6,2013,17.3,16
+Huxelrebe,17.3,2014,17.6,17
+Huxelrebe,17.3,2015,17.3,17
+Huxelrebe,13.8,2016,17.3,16
+Huxelrebe,10.4,2017,13.8,14
+Huxelrebe,7,2018,10.4,15
+Rondo,11.8,2000,11.8,11
+Rondo,14.1,2001,11.8,11
+Rondo,16.4,2002,14.1,11
+Rondo,18.7,2003,16.4,11
+Rondo,19.6,2004,18.7,11
+Rondo,26.7,2005,19.6,10
+Rondo,33,2006,26.7,9
+Rondo,38.7,2007,33,9
+Rondo,41.6,2008,38.7,9
+Rondo,43,2009,41.6,9
+Rondo,44.9,2010,43,9
+Rondo,44.5,2011,44.9,9
+Rondo,46.2,2012,44.5,9
+Rondo,47.4,2013,46.2,8
+Rondo,47.2,2014,47.4,8
+Rondo,48.2,2015,47.2,7
+Rondo,54,2016,48.2,7
+Rondo,56,2017,54,7
+Rondo,58,2018,56,9
+Regent,3.9,2000,3.9,13
+Regent,5.6,2001,3.9,13
+Regent,7.3,2002,5.6,13
+Regent,9,2003,7.3,12
+Regent,10.7,2004,9,12
+Regent,12.4,2005,10.7,14
+Regent,14,2006,12.4,14
+Regent,14.8,2007,14,14
+Regent,17.3,2008,14.8,14
+Regent,19.3,2009,17.3,14
+Regent,19.5,2010,19.3,14
+Regent,20.2,2011,19.5,14
+Regent,23,2012,20.2,13
+Regent,24.3,2013,23,13
+Regent,24.6,2014,24.3,12
+Regent,26.8,2015,24.6,13
+Regent,28.6,2016,26.8,13
+Regent,34.3,2017,28.6,10
+Regent,40,2018,34.3,10
+Schonburger,64.5,2000,64.5,5
+Schonburger,60.2,2001,64.5,5
+Schonburger,56,2002,60.2,5
+Schonburger,51.7,2003,56,5
+Schonburger,51.6,2004,51.7,5
+Schonburger,49.1,2005,51.6,7
+Schonburger,47.1,2006,49.1,8
+Schonburger,47,2007,47.1,8
+Schonburger,44.5,2008,47,8
+Schonburger,42.2,2009,44.5,10
+Schonburger,42,2010,42.2,10
+Schonburger,41.6,2011,42,10
+Schonburger,41.8,2012,41.6,10
+Schonburger,34.5,2013,41.8,11
+Schonburger,31.8,2014,34.5,11
+Schonburger,27.8,2015,31.8,11
+Schonburger,26.3,2016,27.8,14
+Schonburger,20.65,2017,26.3,13
+Schonburger,15,2018,20.65,14
+Pinot Gris,0,2000,0,20
+Pinot Gris,0,2001,0,20
+Pinot Gris,0,2002,0,20
+Pinot Gris,0,2003,0,20
+Pinot Gris,0,2004,0,20
+Pinot Gris,0,2005,0,20
+Pinot Gris,0,2006,0,20
+Pinot Gris,0,2007,0,20
+Pinot Gris,0,2008,0,20
+Pinot Gris,0,2009,0,20
+Pinot Gris,0,2010,0,20
+Pinot Gris,0,2011,0,20
+Pinot Gris,0,2012,0,20
+Pinot Gris,0,2013,0,20
+Pinot Gris,0,2014,0,20
+Pinot Gris,0,2015,0,20
+Pinot Gris,0,2016,0,20
+Pinot Gris,0,2017,0,20
+Pinot Gris,70,2018,0,6
